@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Lenovo\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\bin\Debug\MyArray.dll
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\bin\Debug\MyArray.pdb
+C:\Users\Lenovo\Source\Repos\BiziBoy\homewors-in-C\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
